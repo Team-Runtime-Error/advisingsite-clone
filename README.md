@@ -9,7 +9,7 @@
 - Open Git Bash on your desktop (right click)
 - Run a few commands in your Git Bash before continuing: 
     -   `npm install npm -g` downloads the latest version of npm
-    -   `node -v` will check to see if you already have NodeJS downloaded. If you do, run this command: `npm install update-node`. Run `node -v` again and ensure you have version 10.16.0. *We all need to have the same version.*
+    -   `node -v` will check to see if you already have NodeJS downloaded. If you do, run this command: `npm install update-node`. Run `node -v` again and ensure you have version v14.8.0. *We all need to have the same version.*
 > Run the following commands in Git Bash in the order they are listed:
 ```shell
 $ npm install -g create-react-app
